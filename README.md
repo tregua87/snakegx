@@ -4,7 +4,7 @@ This repository contains the Proof of Concept for SnakeGX.
 
 The attack appears in the proceedings of ACNS 2021 (**TODO: ADD LINK PAPER**)
 
-## Files:
+## Relevant Files
 - `./app/app.cpp`: contains logic of ROP chains creation and enclave analysis
 - `./enclave.signed.so`: the enclave to attack, taken from [StealthDB](https://github.com/cryptograph/stealthdb) and compiled
 - `./app/generateConstant.py`: this extracts the gadgets from `libc` and the `enclave`, based on `ROPgadget` (see advance section)
