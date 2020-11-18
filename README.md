@@ -39,7 +39,7 @@ LD_LIBRARY_PATH=../libc.so.6 ./app
 
 ## Advance section
 
-If you are brave enough (I am soure you re!), you can try to recompile `app`.
+If you are brave enough (I am soure you are!), you can try to recompile `app`.
 
 Basically:
 1. Delete `app`, i.e., `rm app/app`
