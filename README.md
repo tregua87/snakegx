@@ -2,7 +2,7 @@
 
 This repository contains the Proof of Concept for SnakeGX.
 
-The attack appears in the proceedings of ACNS 2021 (**TODO: ADD LINK PAPER**)
+The attack appears in the proceedings of ACNS 2021 ([paper](./paper.pdf)).
 
 ## Relevant Files
 - `./app/app.cpp`: contains logic of ROP chains creation and enclave analysis
